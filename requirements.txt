@@ -1,0 +1,4 @@
+docx2txt
+llama-index
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
