@@ -3,3 +3,5 @@ llama-index
 llama-index-embeddings-azure-openai
 llama-index-llms-azure-openai
 llama-index-vector-stores-qdrant
+mcp[cli]
+asyncpg
