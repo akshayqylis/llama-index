@@ -5,3 +5,6 @@ llama-index-llms-azure-openai
 llama-index-vector-stores-qdrant
 mcp[cli]
 asyncpg
+neo4j
+llama-index-vector-stores-neo4jvector
+llama-index llama-index-graph-stores-neo4j
